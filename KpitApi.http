@@ -1,0 +1,6 @@
+@KpitApi_HostAddress = http://localhost:5002
+
+GET {{KpitApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
